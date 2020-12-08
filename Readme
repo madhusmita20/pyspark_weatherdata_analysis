@@ -1,0 +1,11 @@
+Analysed one year(2000) data for calculating :
+maximum temperature(TMax) 
+Minimum tempreature(TMin)
+Top 3 hotest weather stations
+Top 3 coldest weather stations
+Hottest station on a particular day from year range(2000 to 2002) with temperature value
+coldest station on a particular day from year range(2000 to 2002) with temperature value
+
+Dataset info:
+
+https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/

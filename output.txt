@@ -1,0 +1,14 @@
+Year 2000 Temerature statistics:
+
+Max TMAX(maximum temperature) value = 52.20 degrees Celsius
+Min TMIN(Minimum temperature) value = -57.80 degrees Celsius
+Top 5 hottest weather stations  in tems of temperature 
+Station:USC00042319	Temperature:52.20 degrees Celsius
+Station:USC00040359	Temperature:51.10 degrees Celsius
+Station:USC00042319	Temperature:50.60 degrees Celsius
+Top 5 coldest weather stations in terms of temperature
+Station:USC00501684	Temperature:-57.80 degrees Celsius
+Station:USC00505644	Temperature:-57.80 degrees Celsius
+Station:USC00505644	Temperature:-55.00 degrees Celsius
+Hottest station: USC00042319 on 20020710 with temperature:53.30 degrees Celsius
+Coldest Station: USC00501684 on 20000101 with temperature:-57.80 degrees Celsius
